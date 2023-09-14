@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Soohyun Jung.
+
+I am learning C, Arduino, Python, HTML, etc. in Gachon University as a freshman.
